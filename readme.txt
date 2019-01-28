@@ -1,0 +1,1 @@
+After opening the zip file, all files should be stored in the same folder including the images folder, the music file, and all the other class files. Run the “Game” file to view and play the game. 
